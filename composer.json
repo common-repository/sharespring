@@ -1,0 +1,7 @@
+{
+    "name": "sharespring/sharespring-wordpress-plugin",
+    "description": "Display a gallery of social media posts. https://sharespring.com/",
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
